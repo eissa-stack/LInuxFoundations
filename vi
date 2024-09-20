@@ -1,0 +1,29 @@
+1 . update-alternatives --display editor ----> vim
+-----------------------------------------
+2 . vi/vim
+-----------------------------------------
+3 . All are correct
+-----------------------------------------
+4 . command mode
+----------------------------------------
+5 . press T to switch from command mode to insert mode
+----------------------------------------
+6 . all are correct
+----------------------------------------
+7 . vi kodekloud.txt" ---> i ---> Hello world! ----> :wq
+----------------------------------------
+8 . yy
+-----------------------------------------
+9 . dd -highlight a line
+----------------------------------------
+10 . A+B
+----------------------------------------
+11 . 
+    Go to line 9 by typing :9 and pressing Enter.
+    Enter visual line mode by pressing V (that’s uppercase ‘v’).
+    Cut the line by pressing d.
+    Go to line 5 by typing :5 and pressing Enter.
+    Paste the line above line 5 by pressing P (that’s uppercase ‘p’).
+---------------------------------------
+12 . press 2 then -----> shift + (Uppercase) V ----> dd ----> esc ----> :wq ----> hit entre
+-------------------------------------- 

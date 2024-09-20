@@ -1,0 +1,33 @@
+1 . $pwd
+/home/bob
+------------------------
+2 . echo $HOME
+/home/bob
+------------------------
+3 . argument
+------------------------
+4 . file
+-----------------------
+5 . mkdir birds
+-----------------------
+6 . mkdir fish ; cd ./fish ; mkdir salmon {or use ( -p )}
+---------------------
+7 . cd /home/bob
+
+mkdir mammals birds fish reptile amphibian
+
+mkdir mammals/elephant mammals/monkey
+mkdir birds/eagle
+mkdir fish/salmon
+mkdir reptile/snake reptile/frog
+mkdir amphibian/salamander
+-------------------
+8 . mv /home/bob/reptile/frog /home/bob/amphibian/
+------------------
+9 . mv /home/bob/reptile/snake /home/bob/reptile/crocodile
+-----------------
+10 . rm -rf reptile
+----------------
+
+
+

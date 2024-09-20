@@ -1,0 +1,16 @@
+1 . sudo su -----> caleston123
+----------------------------------
+2 . dpkg
+---------------------------------
+3 . cd /root/firefox ----> sudo dpkg -i ./firefox.deb ( Install Won,t Complete )
+--------------------------------
+4 . No 
+-------------------------------
+5 . Dependinces Not Met
+------------------------------
+6 . apt update -y ; apt install -y firefox
+-----------------------------
+7 . apt search Chromium -----> chromium-browser
+---------------------------
+8 . apt remove -y firefox
+-------------------------

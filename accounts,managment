@@ -1,0 +1,23 @@
+1 . sudo su ---> caleston123
+-------------------------------
+2 . groups bob ----> user account
+------------------------------
+3 . id 
+-----------------------------
+4 . su bob ----> id ---> uid 1000
+-----------------------------
+5 . all permissions
+----------------------------
+6 . /etc/shadow/
+---------------------------
+7 . cat /etc/passwd -------> chris hunter
+--------------------------
+8 . groups chris -------> chris cannon saphire
+-------------------------
+9 . chris
+------------------------
+10 . useradd sarah ----> passwd sarah ----> caleston321
+-----------------------
+11 . groupadd -g 1010 john
+useradd john -g john -u 1010 -s /bin/sh
+----------------------
